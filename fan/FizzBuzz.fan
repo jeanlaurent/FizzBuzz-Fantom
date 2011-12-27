@@ -13,13 +13,6 @@ class FizzBuzz
       }  
     }
     
-//    map.keys.each { 
-//      if (isDivisible(value,it)) 
-//      {
-//        result += map.get(it);
-//      }  
-//    }
-    
     if (!result.isEmpty()) {
       return result;
     }
